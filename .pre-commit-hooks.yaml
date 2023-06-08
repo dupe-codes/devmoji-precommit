@@ -1,0 +1,8 @@
+id: devmoji-precommit
+name: devmoji
+entry: ./devmoji-hook.sh
+language: script
+always_run: true
+stages:
+  - commit-msg
+
