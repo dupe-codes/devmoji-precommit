@@ -1,4 +1,4 @@
 #/bin/bash
 
-devmoji -e --lint
+devmoji -e
 
