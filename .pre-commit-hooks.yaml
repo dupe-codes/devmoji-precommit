@@ -4,5 +4,5 @@
   language: script
   always_run: true
   stages:
-    - commit-msg
+    - prepare-commit-msg
 
