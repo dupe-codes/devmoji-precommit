@@ -2,6 +2,8 @@ Simple script application of [devmoji](https://github.com/folke/devmoji) compati
 
 ## Installation
 
+First, install `devmoji` globally: `npm install -g devmoji`
+
 To install, add the following configuration to your project's `.pre-commit-config.yaml` file:
 
 ```yaml
