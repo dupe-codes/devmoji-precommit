@@ -8,7 +8,7 @@ To install, add the following configuration to your project's `.pre-commit-confi
 
 ```yaml
 repos:
-  - repo: https://github.com/njdup/devmoji-precommit
+  - repo: https://github.com/dupe-codes/devmoji-precommit
     rev: v1.3.0
     hooks:
     - id: devmoji-precommit
